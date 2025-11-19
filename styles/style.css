@@ -102,3 +102,9 @@ td {
   transition: 0.2s;
   background-color: #a9a7a7;  
 }
+
+/*corazon rosa*/
+.btn-like.liked {
+  background: #f8798a; 
+}
+
